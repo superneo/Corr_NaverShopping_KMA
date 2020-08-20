@@ -1,0 +1,9 @@
+obs_id
+obs_name
+date
+avg_temp
+min_temp
+min_temp_hhmi
+max_temp
+max_temp_hhmi
+daily_precip_mm
