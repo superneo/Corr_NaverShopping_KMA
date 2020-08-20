@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 # save_NaverShopping_data.R
 #
 # Purpose: Save Naver Shopping Insight API data
@@ -20,4 +22,4 @@ url <- "https://openapi.naver.com/v1/datalab/shopping/category/device"
 doc <- list(startDate = NULL, endDate = NULL, timeUnit = "date",
             category = Naver_Cat_ID)
 
-cout("Test if it works")
+cat("Test if it works")
