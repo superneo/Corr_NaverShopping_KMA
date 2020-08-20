@@ -8,3 +8,6 @@
   - [Shopping Insight API document](https://developers.naver.com/docs/datalab/shopping/)
   - [Naver Datalab/Shopping Insight](https://datalab.naver.com/shoppingInsight/sCategory.naver)
 
+## How to run the project
+- Execute the following command in the RStudio console(for Naver Shopping Insight API data):
+  - system(paste("src/save_NaverShopping_data.R", **Naver-Client-Id**, **Naver-Client-Secret**))
