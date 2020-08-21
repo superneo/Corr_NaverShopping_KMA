@@ -11,3 +11,5 @@
 ## How to run the project
 - Execute the following command in the RStudio console(for Naver Shopping Insight API data):
   - system(paste("src/save_NaverShopping_data.R", **Naver-Client-Id**, **Naver-Client-Secret**))
+- Execute the following command in the RStudio console(for R markdown rendering):
+  - source('src/make_results.R')
