@@ -1,0 +1,6 @@
+{
+  "ServiceKey": "YOUR_API_KEY",
+  "startDt": "20210101",
+  "endDt": "20211231",
+  "stnIds": ["108"]
+}

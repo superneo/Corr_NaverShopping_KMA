@@ -1,0 +1,6 @@
+# Ignore everything in this directory
+*
+# Except these files
+!.gitignore
+!README
+!KMA_params_example.json
