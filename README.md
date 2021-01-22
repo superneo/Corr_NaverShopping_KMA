@@ -24,7 +24,7 @@ sys.source('src/retrieve_KMA_API_data.R', envir=new.env(parent=parent.frame()))
 ```
 source('src/make_results.R')
 ```
-### run all scripts at once
+### run all scripts at once (to be completed later/not for use now)
 - Execute the following command in the RStudio console:
 ```
 source('src/run_all_scripts.R')
